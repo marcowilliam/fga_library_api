@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marcowilliam/fga_library_api/issues"
   },
-  "homepage": "https://github.com/marcowilliam/fga_library_api#readme"
+  "homepage": "https://github.com/marcowilliam/fga_library_api#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
